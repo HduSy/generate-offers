@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf092856-8b6c-49ad-98b7-34e9db817625" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jcfsauAOlpdnkD5Hup5y0nidSI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf092856-8b6c-49ad-98b7-34e9db817625" name="Default Changelist" comment="" />
+      <created>1604108507313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604108507313</updated>
+      <workItem from="1604108508470" duration="1671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="218" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604108714656">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state x="218" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.0.1400.914@63.0.1400.914" timestamp="1604108714656" />
+    <state width="1356" height="370" key="GridCell.Tab.0.bottom" timestamp="1604108864422">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state width="1356" height="370" key="GridCell.Tab.0.bottom/63.0.1400.914@63.0.1400.914" timestamp="1604108864422" />
+    <state width="1356" height="370" key="GridCell.Tab.0.center" timestamp="1604108864422">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state width="1356" height="370" key="GridCell.Tab.0.center/63.0.1400.914@63.0.1400.914" timestamp="1604108864422" />
+    <state width="1356" height="370" key="GridCell.Tab.0.left" timestamp="1604108864422">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state width="1356" height="370" key="GridCell.Tab.0.left/63.0.1400.914@63.0.1400.914" timestamp="1604108864422" />
+    <state width="1356" height="370" key="GridCell.Tab.0.right" timestamp="1604108864422">
+      <screen x="63" y="0" width="1400" height="914" />
+    </state>
+    <state width="1356" height="370" key="GridCell.Tab.0.right/63.0.1400.914@63.0.1400.914" timestamp="1604108864422" />
+  </component>
+</project>
